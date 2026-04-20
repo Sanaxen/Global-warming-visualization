@@ -11,6 +11,7 @@
 
 ![NASA-GISTEMP-Global-Temperature-Anomaly](./gistemp_frames_with_coast/gistemp_frames_with_coast.gif)  
 
+![NASA-GISTEMP-Global-Temperature-Anomaly](./spiral_top_then_tilt_v2_frames/spiral_top_then_tilt_v2_frames.gif)  
 ---
 
 ## Data set  
